@@ -1,0 +1,102 @@
+[
+  {
+    "Title": "Destino Real",
+    "Rating": 9.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Linha do Medo",
+    "Rating": 9.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Corações em Fogo",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Ilha Perdida",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Força Bruta",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Magia Arcana",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Noite Eterna",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Rindo Alto",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Sombras do Passado",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Fronteira Estelar",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Sombra da Verdade",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "A Casa Sombria",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Galáxia Zero",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Reino dos Antigos",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Vingança Final",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Mundo Perdido",
+    "Rating": 7.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Risos em Família",
+    "Rating": 7.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Cidade Corrompida",
+    "Rating": 7.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Amor Inesperado",
+    "Rating": 7.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "O Último Suspiro",
+    "Rating": 7.0,
+    "Type": "Movie"
+  }
+]

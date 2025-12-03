@@ -1,0 +1,32 @@
+[
+  {
+    "Director_name": "Kenji Tanaka",
+    "Title": "Galáxia Zero",
+    "Rating": 9.0,
+    "Type": "Movie"
+  },
+  {
+    "Director_name": "Kenji Tanaka",
+    "Title": "Fronteira Estelar",
+    "Rating": 9.0,
+    "Type": "Serie"
+  },
+  {
+    "Director_name": "Peter Hall",
+    "Title": "Magia Arcana",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Director_name": "Peter Hall",
+    "Title": "Reino dos Antigos",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Director_name": "João Martins",
+    "Title": "Sombras do Passado",
+    "Rating": 8.0,
+    "Type": "Serie"
+  }
+]

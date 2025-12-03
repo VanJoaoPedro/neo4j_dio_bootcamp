@@ -1,0 +1,32 @@
+[
+  {
+    "Title": "Galáxia Zero",
+    "Genre": "Ficção Científica",
+    "Rating": 9.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Fronteira Estelar",
+    "Genre": "Ficção Científica",
+    "Rating": 9.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Magia Arcana",
+    "Genre": "Fantasia",
+    "Rating": 8.0,
+    "Type": "Serie"
+  },
+  {
+    "Title": "Reino dos Antigos",
+    "Genre": "Fantasia",
+    "Rating": 8.0,
+    "Type": "Movie"
+  },
+  {
+    "Title": "Sombras do Passado",
+    "Genre": "Ação",
+    "Rating": 8.0,
+    "Type": "Serie"
+  }
+]
